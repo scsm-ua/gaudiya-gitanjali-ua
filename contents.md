@@ -8,8 +8,7 @@
 ### Ранкове Араті і програма
 
  - **Шрі Шрі Ґірірадж-Ґовадган Араті - джая джая ґіріра̄джер а̄ротіко шобга̄**
- - [Прабга̄ті Ґīті
-](songs/kali-kukkura-kadana-jadi-chhao-he-kaliyuga-pavana-kali-bhaya-nashiana.md)
+ - [Прабга̄ті Ґīті](songs/kali-kukkura-kadana-jadi-chhao-he-kaliyuga-pavana-kali-bhaya-nashiana.md)
  - **йашоматі-нандана**
  - [Шрī Шячīнандана-вандана̄](songs/jaya-shiachinandana-sura-muni-vandana-bhava-bhaya-khandana-jayo-he.md)
  - [Ґурудева](songs/gurudeva.md)
