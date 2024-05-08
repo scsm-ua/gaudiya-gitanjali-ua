@@ -30,7 +30,7 @@
  - [Шрī Ґаура-а̄раті](songs/jaya-jaya-gaurachander-arotiko-shobha.md)
  - [Шрī Са̄расват-а̄раті](songs/jayare-jayare-jaya-gaura-sarasvati.md)
  - [Шрī Туласī-парікрама̄-ґīті](songs/namo-namah-tulasi-maharani.md)
- - [Шрī Ґуру-вайшнава Ма̄ха̄тмʼя-ґīті](songs/shri-guru-chharana-padma.md)
+ - [Шрī Ґуру-вайшнава Ма̄ха̄тмʼя-ґīті](songs/shri-guru-charana-padma-kevala-bhakati.md)
  - **шрī кришна чхайтанья прабгу дая кара море**
  - **охе вайшнава тхакура**
 
