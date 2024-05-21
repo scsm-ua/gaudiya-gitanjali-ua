@@ -10,6 +10,9 @@
         "Copy page address": "Копіювати посилання на сторінку",
         "Contents": "Зміст",
         "Index": "Індекс",
-        "Vaishnava Songbook": "Сайт вайшнавських пісень"
+        "Vaishnava Songbook": "Сайт вайшнавських пісень",
+        "bookListPage": {
+            "songCount": "пісень"
+        }
     }
 }
