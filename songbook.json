@@ -20,7 +20,11 @@
             "SEARCH": "Пошук"
         },
         "SONG_PAGE": {
-            "SHARE_SONG": "Поділитися піснею"
+            "CLOSE": "Закрити",
+            "NEXT_SONG": "Наступна пісня",
+            "PREVIOUS_SONG": "Попередня пісня",
+            "SHARE_SONG": "Поділитися піснею",
+            "SHOW_TRANSLATION": "Показувати переклад"
         }
     }
 }
