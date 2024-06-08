@@ -1,34 +1,5 @@
 {
     "title": "Ґаудія Ґітанджалі",
     "subtitle": "Переклад деяких бгаджанів на українську мову",
-    "slug": "ua",
-    "i18n": {
-        "Books": "Книги",
-        "Search": "Пошук",
-        "Share": "Поділитися",
-        "Copy page address": "Копіювати посилання на сторінку",
-        "Contents": "Зміст",
-        "Index": "Індекс",
-        "Vaishnava Songbook": "Сайт вайшнавських пісень",
-        "BOOK_LIST_PAGE": {
-            "SONG_COUNT": "пісень"
-        },
-        "FOOTER": {
-            "BOOKS": "Книги",
-            "CONTENTS": "Зміст",
-            "INDEX": "Індекс",
-            "SEARCH": "Пошук"
-        },
-        "SONG_PAGE": {
-            "CLOSE": "Закрити",
-            "COPY": "Копіювати",
-            "COPY_LINK": "Копіювати посилання на сторінку",
-            "NEXT_SONG": "Наступна пісня",
-            "OTHER_TRANSLATIONS": "Дивитись інші переклади",
-            "PREVIOUS_SONG": "Попередня пісня",
-            "SHARE": "Поділитися",
-            "SHARE_SONG": "Поділитися піснею",
-            "SHOW_TRANSLATION": "Показувати переклад"
-        }
-    }
+    "slug": "ua"
 }
