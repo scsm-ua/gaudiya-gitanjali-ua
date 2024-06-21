@@ -27,12 +27,13 @@
  - [Шрī Шячīнандана-вандана̄](songs/jaya-shiachinandana-sura-muni-vandana.md)
  - [Ґурудева](songs/gurudeva-kripa-bindu-diya-kara-ei-dase.md)
  - **WIP 🔴** **уділо аруна і джів джаґо**
+ - [Арунодоя-кīртан 1](songs/udilo-aruna-puraba-bhage.md)
+ - [Арунодоя-кīртан 2](songs/jiv-jago-jiv-jago-gaurachanda-bole.md)
  - [Шярана̄ґаті. Благодатне звернення](songs/shri-krishna-chaitanya-prabhu-jive-daya-kori.md)
  - бгаджаре бгаджаре амар
  - **WIP 🔴** **тхакура вайшнава ґана**
  - [На̄м-санкīртан](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
- - [Арунодоя-кīртан](songs/jiv-jago-jiv-jago-gaurachanda-bole.md)
-
+ 
 ### Обіднє Араті
 
  - [Шрī Бгоґ А̄раті Ґīті](songs/bhaja-bhakata-vatsala-shri-gaurahari.md)
