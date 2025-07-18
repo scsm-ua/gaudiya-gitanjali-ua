@@ -23,3 +23,4 @@
 - [шрī ґуру чарана-падма](songs/shri-guru-charana-padma-kevala-bhakati.md)
 - [шрī-кришна-чайтанья прабгу джīве дая корі’](songs/shri-krishna-chaitanya-prabhu-jive-daya-kori.md)
 - [шрī-кришна-чайтанья прабгу нітьянанда](songs/shri-krishna-chaitanya-prabhu-nityananda.md)
+- [шрī харі-ва̄саре харі-кīртана-відга̄на](songs/shri-hari-vasare-hari-kirtana-vidhana.md)
