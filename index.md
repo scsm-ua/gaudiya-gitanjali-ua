@@ -17,6 +17,7 @@
 - [надīя-ґодруме нітьянанда маха̄джана](songs/nadiya-godrume-nityananda-mahajana.md)
 - [намо намах туласī маха̄ра̄нī](songs/namo-namah-tulasi-maharani.md)
 - [самса̄ра-да̄ва̄нала-лīдга-лока](songs/samsara-davanala-lidha-loka.md)
+- [тха̄кура вайшнава-ґана корі еі ніведана](songs/thakura-vaishnava-gana-kori-ei-nivedana.md)
 - [уділо аруна пӯраба-бга̄ґе](songs/udilo-aruna-puraba-bhage.md)
 - [харе кришна харе кришна кришна кришна харе харе](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
 - [харі харає намах кришна ядава̄я намах](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
