@@ -32,7 +32,7 @@
  - [Арунодоя-кīртан 2](songs/jiv-jago-jiv-jago-gaurachanda-bole.md)
  - [Шярана̄ґаті. Благодатне звернення](songs/shri-krishna-chaitanya-prabhu-jive-daya-kori.md)
  - бгаджаре бгаджаре амар
- - **WIP 🔴** **тхакура вайшнава ґана**
+ - [Тха̄кура-вайшнава-ґана](songs/thakura-vaishnava-gana-kori-ei-nivedana.md)
  - [На̄м-санкīртан](songs/hari-haraye-namah-krishna-yadavaya-namah.md)
  
 ### Обіднє Араті
