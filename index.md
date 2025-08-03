@@ -11,6 +11,7 @@
 - [джая джая ґурудевер а̄раті уджджвала](songs/jaya-jaya-gurudever-arati-ujjvala.md)
 - [джаяре джаяре джая ґаура-сарасватī](songs/jayare-jayare-jaya-gaura-sarasvati.md)
 - [джая шячīнандана сура-муні-вандана](songs/jaya-shiachinandana-sura-muni-vandana.md)
+- [дже а̄ніло према-дгана каруна̄ прачура](songs/je-anilo-prema-dhana-karuna-prachura.md)
 - [емона дурматі, самса̄ра бгіторе](songs/emona-durmati-samsara-bhitore.md)
 - [калі-куккура-кадана джаді ча̄о хе](songs/kali-kukkura-kadana-jadi-chao-he.md)
 - [(кіба) джая джая ґаура̄ча̄ндер а̄ротіко шобга̄](songs/jaya-jaya-gaurachander-arotiko-shobha.md)
