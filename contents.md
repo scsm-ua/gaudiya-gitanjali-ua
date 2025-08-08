@@ -71,7 +71,7 @@
 ### Вайшнавам
 
  - [Віраха-ґīті](songs/je-anilo-prema-dhana-karuna-prachura.md)
- - **еі-баро коруна коро**
+ - [Вайшнава Віґʼяпті](songs/ei-vara-karuna-kara-vaishnava-gosani.md)
 
 ### Екадаші та святкові дні
 
