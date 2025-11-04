@@ -1,7 +1,7 @@
 - [авата̄ра са̄ра ґора̄ авата̄ра](songs/avatara-sara-gora-avatara.md)
 - [акродга парама̄нанда](songs/akrodha-paramananda.md)
 - [а̄ма̄ра джīвана, сада̄ па̄пе рата](songs/amara-jivana-sada-pape-rata.md)
-- [а̄ча̄рʼя-варйям ґаура-дга̄ма-ніштхам](songs/acharya-varyam-gaura-dhama-nishtham.md)
+- [а̄ча̄рʼя-варʼям ґаура-дга̄ма-ніштхам](songs/acharya-varyam-gaura-dhama-nishtham.md)
 - [бгаджа бгаката-ватсала шрī-ґаурахарі](songs/bhaja-bhakata-vatsala-shri-gaurahari.md)
 - [бгаджаху ре мана шрī-нанда-нандана](songs/bhajahu-re-mana-shri-nanda-nandana.md)
 - [ґа̄й ґора̄ мадгур сваре](songs/gay-gora-madhur-svare.md)
