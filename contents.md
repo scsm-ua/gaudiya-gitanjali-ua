@@ -61,7 +61,16 @@
 - [Са̄варана-Шрī-Ґаура-па̄да-падме Пра̄ртхана̄](songs/shri-krishna-chaitanya-prabhu-daya-kara-more.md)
 - [Шрī Вайшнава-махіма̄-ґīті](songs/vaishnava-thakura-dayara-sagara.md)
 - [Шрī Шрī Прабгупа̄да-падма Ставаках](songs/sujanarvuda-radhita-pada-yugam.md)
-- [Шрī Шрī Премадга̄ма-дева-стотрам](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+
+### Шрī Шрī Премадга̄ма-дева-стотрам
+
+- [1-10. Субота](songs/deva-siddha-mukta-yukta-bhakta-vrinda.md)
+- [11-20. Неділя](songs/sutra-vritti-tippanishta-sukshma-vachanadbhutam.md)
+- [21-30. Понеділок](songs/dhvasta-sarvvabhauma-vada-navya-tarka-shiankaram.md)
+- [31-40. Вівторок](songs/prema-mugdha-rudra-raja-shiaurya-virya-vikramam.md)
+- [41-50. Середа](songs/prema-mugdha-nritya-kirtanakularitantikam.md)
+- [51-60. Четвер](songs/shri-sanatananu-rupa-jiva-sampradayakam.md)
+- [61-72. Пʼятниця](songs/yamunambu-krishna-radhikali-keli-mandalam.md)
 
 ### Пісні, присвячені Нітьянанді
 
