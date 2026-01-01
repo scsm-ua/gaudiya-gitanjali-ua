@@ -6,82 +6,10 @@ on:
   pull_request:
   workflow_dispatch:
 
-permissions:
-  contents: read
-  pull-requests: write
-
 jobs:
-  test:
-    runs-on: ubuntu-latest
-    
-    steps:
-    - name: Checkout repository
-      uses: actions/checkout@v4
-      
-    - name: Setup Node.js
-      uses: actions/setup-node@v4
-      with:
-        node-version: '18'
-    
-    - name: Install pnpm
-      uses: pnpm/action-setup@v3
-      with:
-        version: 8
-    
-    - name: Get pnpm store directory
-      id: pnpm-cache
-      shell: bash
-      run: echo "STORE_PATH=$(pnpm store path)" >> $GITHUB_OUTPUT
-    
-    - name: Setup pnpm cache
-      uses: actions/cache@v4
-      with:
-        path: ${{ steps.pnpm-cache.outputs.STORE_PATH }}
-        key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-        restore-keys: |
-          ${{ runner.os }}-pnpm-store-
-    
-    - name: Install dependencies
-      run: pnpm install
-      
-    - name: Build songbook
-      run: pnpm run build
-      
-    - name: Run validation
-      id: test
-      run: |
-        set -o pipefail
-        pnpm run test 2>&1 | tee test-output.txt
-      continue-on-error: true
-      
-    - name: Comment on PR with errors
-      if: failure() && github.event_name == 'pull_request'
-      uses: actions/github-script@v7
-      with:
-        script: |
-          const fs = require('fs');
-          const output = fs.readFileSync('test-output.txt', 'utf8');
-          
-          const body = `## ❌ Validation Failed
-          
-          <details>
-          <summary>Error Details</summary>
-          
-          \`\`\`
-          ${output}
-          \`\`\`
-          
-          </details>
-          
-          [View full workflow logs](${context.payload.repository.html_url}/actions/runs/${context.runId})`;
-          
-          github.rest.issues.createComment({
-            issue_number: context.issue.number,
-            owner: context.repo.owner,
-            repo: context.repo.repo,
-            body: body
-          });
-      
-    - name: Fail workflow if tests failed
-      if: steps.test.outcome == 'failure'
-      run: exit 1
+  validate:
+    uses: scsm-ua/songbook-md-json-parser/.github/workflows/songbook-validate.yml@json-validation
+
+    permissions:
+      contents: read
+      pull-requests: write
