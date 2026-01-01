@@ -54,30 +54,13 @@ jobs:
         pnpm run test 2>&1 | tee test-output.txt
       continue-on-error: true
       
-    - name: Check for errors in output
-      id: check_errors
-      if: always()
-      run: |
-        if [ -f test-output.txt ] && grep -i "error\|fail\|invalid" test-output.txt; then
-          echo "has_errors=true" >> $GITHUB_OUTPUT
-          exit 0
-        else
-          echo "has_errors=false" >> $GITHUB_OUTPUT
-          exit 0
-        fi
-      
     - name: Comment on PR with errors
-      if: (steps.test.outcome == 'failure' || steps.check_errors.outputs.has_errors == 'true') && github.event_name == 'pull_request'
+      if: failure() && github.event_name == 'pull_request'
       uses: actions/github-script@v7
       with:
         script: |
           const fs = require('fs');
-          let output = '';
-          try {
-            output = fs.readFileSync('test-output.txt', 'utf8');
-          } catch (e) {
-            output = 'Could not read test output';
-          }
+          const output = fs.readFileSync('test-output.txt', 'utf8');
           
           const body = `## ❌ Validation Failed
           
@@ -100,5 +83,5 @@ jobs:
           });
       
     - name: Fail workflow if tests failed
-      if: always() && (steps.test.outcome == 'failure' || steps.check_errors.outputs.has_errors == 'true')
+      if: steps.test.outcome == 'failure'
       run: exit 1
