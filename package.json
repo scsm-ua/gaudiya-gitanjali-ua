@@ -13,7 +13,7 @@
   "homepage": "https://github.com/scsm-ua/gaudiya-gitanjali-ua#readme",
   "scripts": {
     "build": "songbook-build",
-    "validate": "songbook-validate"
+    "test": "songbook-validate"
   },
   "dependencies": {
     "songbook-md-json-parser": "github:scsm-ua/songbook-md-json-parser#json-validation"
