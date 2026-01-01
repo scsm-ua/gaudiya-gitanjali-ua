@@ -1,13 +1,14 @@
 ---
 translation: 'no'
 first_line: яді те харі-па̄да-сароджа-судга̄
+author: Шрīла Бгактівінод Тха̄кур
 ---
 
 # Шрī Ґодрумачандра-бгаджанопадешя
 
 ## Instructions for Worshiping Lord Chaitanya, the Moon of the Island of Godruma-dvīpa
 
-### by Śrīla Bhakti Vinod Ṭhākur (1893)
+### Шрīла Бгактівінод Тха̄кур (1893)
 
 #### 1
 

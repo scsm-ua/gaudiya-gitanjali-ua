@@ -2,6 +2,7 @@
 page: 21
 translation: 'no'
 first_line: вринда̄яй туласī-девʼяй
+no-author: 1
 ---
 
 # вринда̄яй туласī-девʼяй

@@ -2,6 +2,7 @@
 page: 249
 translation: 'no'
 first_line: наґара бграмія а̄ма̄ра ґаура ело горе
+no-author: 1
 ---
 
 # Атер парікрама̄
