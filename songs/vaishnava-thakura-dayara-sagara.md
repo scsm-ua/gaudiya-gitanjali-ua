@@ -2,6 +2,7 @@
 verse parentheses: non bold
 page: 76
 translation: 'no'
+first_line: (охе) вайшнава тха̄кура, даяра са̄ґара
 ---
 
 # Шрī Вайшнава-махіма̄-ґīті

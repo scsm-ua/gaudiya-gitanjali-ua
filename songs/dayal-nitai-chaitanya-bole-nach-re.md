@@ -2,6 +2,7 @@
 verse parentheses: non bold
 page: 116
 translation: 'no'
+first_line: ‘даял ніта̄і чайтанья’ бо’ле на̄ч ре
 ---
 
 # Даял Ніта̄і Чайтанья

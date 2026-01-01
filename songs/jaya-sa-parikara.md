@@ -1,6 +1,7 @@
 ---
 page: 22
 translation: 'no'
+first_line: джая са-парікара
 ---
 
 # Джая Дгвані
