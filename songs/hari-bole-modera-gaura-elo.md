@@ -2,6 +2,7 @@
 verse parentheses: non bold
 page: 251
 translation: 'no'
+first_line: ‘харі’ боле’ модера ґаура ело
 ---
 
 # Шрī Наґара Кīртана 8
