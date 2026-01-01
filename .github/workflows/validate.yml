@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  validate:
+  test:
     runs-on: ubuntu-latest
     
     steps:
@@ -40,5 +40,8 @@ jobs:
     - name: Install dependencies
       run: pnpm install
       
+    - name: Build songbook
+      run: pnpm run build
+      
     - name: Run validation
-      run: pnpm run validate
+      run: pnpm run test
