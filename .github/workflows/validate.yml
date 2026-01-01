@@ -45,11 +45,25 @@ jobs:
       
     - name: Run validation
       id: test
-      run: pnpm run test 2>&1 | tee test-output.txt
+      run: |
+        set -o pipefail
+        pnpm run test 2>&1 | tee test-output.txt
       continue-on-error: true
       
+    - name: Check for errors in output
+      id: check_errors
+      if: always()
+      run: |
+        if [ -f test-output.txt ] && grep -i "error\|fail\|invalid" test-output.txt; then
+          echo "has_errors=true" >> $GITHUB_OUTPUT
+          exit 0
+        else
+          echo "has_errors=false" >> $GITHUB_OUTPUT
+          exit 0
+        fi
+      
     - name: Comment on PR with errors
-      if: steps.test.outcome == 'failure' && github.event_name == 'pull_request'
+      if: (steps.test.outcome == 'failure' || steps.check_errors.outputs.has_errors == 'true') && github.event_name == 'pull_request'
       uses: actions/github-script@v7
       with:
         script: |
@@ -82,5 +96,5 @@ jobs:
           });
       
     - name: Fail workflow if tests failed
-      if: steps.test.outcome == 'failure'
+      if: always() && (steps.test.outcome == 'failure' || steps.check_errors.outputs.has_errors == 'true')
       run: exit 1
