@@ -1,6 +1,8 @@
 ---
 page: 62
 translation: 'no'
+first_line: маха̄праса̄де ґовінде на̄ма брахмані
+no-author: 1
 ---
 
 # Маха̄праса̄да

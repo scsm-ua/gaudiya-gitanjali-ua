@@ -1,12 +1,14 @@
 ---
 translation: 'no'
+first_line: ніджа-паті-бгуджа-данда-ччхатра-бга̄вам
+author: Шрīла Рагуна̄тх Да̄с Ґосва̄мī Прабгу
 ---
 
 # Шрī Шрī Ґовардгана-ва̄са-пра̄ртхана̄-дашякам
 
 ## A Dwelling Near Śrī Govardhan
 
-### Ten prayers for a dwelling near Śrī Govardhan composed by Śrīla Raghunāth Dās Goswāmī Prabhu.
+### Ten prayers for a dwelling near Śrī Govardhan composed by Śrīla Raghunāth Dās Goswāmī Prabhu
 
 ### The preferred prayer to Śrī Govardhan of Śrīla Bhakti Siddhānta Saraswatī Ṭhākur
 

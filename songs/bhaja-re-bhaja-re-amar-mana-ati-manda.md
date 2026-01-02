@@ -2,6 +2,7 @@
 verse parentheses: non bold
 page: 51
 translation: 'no'
+first_line: бгаджа ре бгаджа ре а̄ма̄р мана аті манда
 ---
 
 # Бгаджан-ґīті
