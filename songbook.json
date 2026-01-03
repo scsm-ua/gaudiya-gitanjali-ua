@@ -3,5 +3,9 @@
     "subtitle": "Вайшнавський пісенник українскою мовою",
     "slug": "ua",
     "sort_order": 60,
-    "language": "uk"
+    "language": "uk",
+    "render": {
+        "tg.contents.first_line": false,
+        "tg.a-z.title.words": 4
+    }
 }
