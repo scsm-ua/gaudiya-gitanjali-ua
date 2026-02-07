@@ -2,7 +2,6 @@
 translation: auto
 first_line: шорīра авідья-джа̄л, джодендрія та̄хе ка̄л
 version: draft-v8
-errors: wrong verses count, check original
 ---
 
 # Шрī Праса̄да-сева̄я Ґīті
