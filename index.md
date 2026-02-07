@@ -139,7 +139,7 @@
 - [а̄ма̄ра джīвана, сада̄ па̄пе рата](songs/amara-jivana-sada-pape-rata.md)
 - [а̄тма-ніведана, туя паде корі](songs/atma-nivedana-tuya-pade-kori.md)
 - [а̄тма-самарпане ґела̄ абгіма̄на](songs/atma-samarpane-gela-abhimana.md)
-- [шорīра авідья-джа̄л, джодендрія та̄хе ка̄л](songs/shorira-avidya-jal-jodendriya-tahe-kal.md)
+- [бга̄і-ре! шорīра авідья-джа̄л, джодендрія та̄хе ка̄л](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)
 - [шріта-камала̄-кучха-мандала дгрита](songs/shrita-kamala-kuchha-mandala-dhrita.md)
 - [шрī ґуру чарана-падма, кевала-бгакаті](songs/shri-guru-charana-padma-kevala-bhakati.md)
 - [шрī харі-ва̄саре харі-кīртана-відга̄на](songs/shri-hari-vasare-hari-kirtana-vidhana.md)
