@@ -2,7 +2,7 @@
 page: 121
 first_line: авата̄ра са̄ра ґора̄ авата̄ра
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # Авата̄ра Са̄ра

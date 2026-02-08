@@ -2,7 +2,7 @@
 page: 61
 first_line: джая шячīнандана сура-муні-вандана
 translator: Krishna Chaitanya Das
-comment: draft1
+version: draft1
 ---
 
 # Шрī Шячīнандана-вандана̄

@@ -2,7 +2,7 @@
 page: 43
 first_line: джīв джа̄ґо, джīв джа̄ґо, ґаура̄ча̄нда боле
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # Арунодоя-кīртан

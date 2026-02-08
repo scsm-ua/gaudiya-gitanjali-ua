@@ -3,7 +3,7 @@ page: 24
 author: Шрīла Бгакті Ракшак Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж
 first_line: харе кришна харе кришна кришна кришна харе харе
 translator: Alokananda Devi Dasi
-comment: draft0
+version: draft0
 ---
 
 # Харе Крішна маха̄мантра

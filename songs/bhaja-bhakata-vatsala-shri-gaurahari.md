@@ -2,7 +2,7 @@
 page: 58
 first_line: бгаджа бгаката-ватсала шрī-ґаурахарі
 translator: Tulasi Devi Dasi
-comment: draft2
+version: draft2
 ---
 
 # Шрī Бгоґ А̄раті Ґīті

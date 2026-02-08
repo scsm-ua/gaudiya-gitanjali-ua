@@ -2,7 +2,7 @@
 page: 42
 first_line: уділо аруна пӯраба-бга̄ґе
 translator: Tulasi Devi Dasi
-comment: draft2
+version: draft2
 ---
 
 # Арунодоя-кīртан

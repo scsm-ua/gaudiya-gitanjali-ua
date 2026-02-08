@@ -2,7 +2,7 @@
 page: 154
 first_line: емона дурматі, самса̄ра бгіторе
 translator: nazar
-comment: draft0
+version: draft0
 ---
 
 # Дайньятміка̄

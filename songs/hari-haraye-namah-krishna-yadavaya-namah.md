@@ -2,7 +2,7 @@
 page: 55
 first_line: харі харає намах кришна ядава̄я намах
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # На̄м-санкīртан

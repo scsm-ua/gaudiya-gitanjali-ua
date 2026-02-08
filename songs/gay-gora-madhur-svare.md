@@ -2,7 +2,7 @@
 page: 122
 first_line: ґа̄й ґора̄ мадгур сваре
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # Шрī На̄ма

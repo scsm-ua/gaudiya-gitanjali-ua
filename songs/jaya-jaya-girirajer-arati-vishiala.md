@@ -2,7 +2,7 @@
 page: 32
 first_line: джая джая ґіріра̄джер а̄раті вішяла
 translator: Arjun Krishna Das
-comment: draft1
+version: draft1
 ---
 
 # Шрī Ґовінда Кунда

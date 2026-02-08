@@ -2,7 +2,7 @@
 page: 54
 first_line: тха̄кура вайшнава-ґана корі еі ніведана
 translator: Krishna Chaitanya Das
-comment: draft2
+version: draft2
 ---
 
 # Тха̄кура-вайшнава-ґана

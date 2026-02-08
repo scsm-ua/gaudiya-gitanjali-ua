@@ -2,7 +2,7 @@
 page: 38
 first_line: калі-куккура-кадана джаді ча̄о хе
 translator: Krishna Chaitanya Das
-comment: draft1
+version: draft1
 ---
 
 # Прабга̄ті Ґīті

@@ -3,7 +3,7 @@ page: 24
 no-author: 1
 first_line: шрī-кришна-чайтанья прабгу нітьянанда
 translator: Alokananda Devi Dasi
-comment: draft0
+version: draft0
 ---
 
 # Паньча-таттва мантра

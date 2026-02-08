@@ -2,7 +2,7 @@
 page: 161
 first_line: а̄ма̄ра джīвана, сада̄ па̄пе рата
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # А̄ма̄ра джīвана

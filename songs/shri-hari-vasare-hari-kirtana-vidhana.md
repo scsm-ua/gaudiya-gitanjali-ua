@@ -2,7 +2,7 @@
 page: 238
 first_line: шрī харі-ва̄саре харі-кīртана-відга̄на
 translator: Alokananda Devi Dasi
-comment: draft2
+version: draft2
 ---
 
 # Шрī Харі-ва̄сара-ґīті

@@ -2,7 +2,7 @@
 page: 48
 first_line: самса̄ра-да̄ва̄нала-лīдга-лока
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # Шрī Шрī Ґурва̄штака

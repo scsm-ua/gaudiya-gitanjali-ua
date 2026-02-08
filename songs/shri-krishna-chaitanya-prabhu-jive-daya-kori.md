@@ -2,7 +2,7 @@
 page: 50
 first_line: шрī-кришна-чайтанья прабгу джīве дая корі’
 translator: Krishna Chaitanya Das
-comment: draft1
+version: draft1
 ---
 
 # Шярана̄ґаті. Благодатне звернення

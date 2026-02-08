@@ -2,7 +2,7 @@
 page: 146
 first_line: бгаджаху ре мана шрī-нанда-нандана
 translator: Alokananda Devi Dasi
-comment: draft1
+version: draft1
 ---
 
 # Бгаджаху Ре Мана

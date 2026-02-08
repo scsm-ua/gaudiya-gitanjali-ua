@@ -2,7 +2,7 @@
 page: 69
 first_line: намо намах туласī маха̄ра̄нī
 translator: Tulasi Devi Dasi
-comment: draft2
+version: draft2
 ---
 
 # Шрī Туласī-парікрама̄-ґīті

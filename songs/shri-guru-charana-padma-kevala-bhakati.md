@@ -3,7 +3,7 @@ verse parentheses: non bold
 page: 74
 first_line: шрī ґуру чарана-падма, кевала-бгакаті
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # Шрī Ґуру-вайшнава

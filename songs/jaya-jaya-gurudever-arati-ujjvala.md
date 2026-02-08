@@ -2,7 +2,7 @@
 page: 70
 first_line: джая джая ґурудевер а̄раті уджджвала
 translator: Krishna Chaitanya Das
-comment: draft1
+version: draft1
 ---
 
 # Шрī Ґуру А̄раті

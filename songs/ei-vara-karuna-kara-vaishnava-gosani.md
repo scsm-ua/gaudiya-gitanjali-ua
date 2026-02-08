@@ -2,7 +2,7 @@
 page: 136
 first_line: еі-ва̄ра каруна̄ кара вайшнава ґоса̄ні
 translator: Alokananda Devi Dasi
-comment: draft2
+version: draft2
 ---
 
 # Вайшнава Віґʼяпті

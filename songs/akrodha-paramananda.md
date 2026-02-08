@@ -2,7 +2,7 @@
 page: 114
 first_line: акродга парама̄нанда
 translator: nazar
-comment: draft1
+version: draft1
 ---
 
 # Акродга парама̄нанда

@@ -6,7 +6,7 @@ translator:
   - nazar
   - Tulasi Devi Dasi
   - Alokananda Devi Dasi
-comment: draft0
+version: draft0
 ---
 
 # Шрī Са̄расват-а̄раті

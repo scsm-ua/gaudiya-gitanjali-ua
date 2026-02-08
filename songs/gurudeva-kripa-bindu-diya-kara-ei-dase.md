@@ -2,7 +2,7 @@
 page: 68
 first_line: ґурудева! крипа̄-бінду дія, кара’ еі да̄се
 translator: Krishna Chaitanya Das
-comment: draft1
+version: draft1
 ---
 
 # Ґурудева
