@@ -4,6 +4,7 @@ translation: auto
 first_line: кришна хоіте чатур-мукха
 author: Шрīла Сарасваті Тха̄кур
 version: draft-v8
+translator: nazar
 ---
 
 # Шрī Ґуру-парампара̄
