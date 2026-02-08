@@ -3,6 +3,7 @@ page: 160
 translation: auto
 first_line: а̄тма-ніведана, туя паде корі
 version: draft-v8
+translator: nazar
 ---
 
 # А̄тма-ніведана
