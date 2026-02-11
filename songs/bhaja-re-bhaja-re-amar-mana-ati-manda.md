@@ -4,7 +4,7 @@ page: 51
 translation: auto
 first_line: бгаджа ре бгаджа ре а̄ма̄р мана аті манда
 version: draft-v8
-translation: nazar
+translator: nazar
 ---
 
 # Бгаджан-ґīті
