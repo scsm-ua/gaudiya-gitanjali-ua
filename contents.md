@@ -49,7 +49,7 @@
 
 - [Шрī Бгоґ А̄раті Ґīті](songs/bhaja-bhakata-vatsala-shri-gaurahari.md)
 - [Маха̄праса̄да](songs/mahaprasade-govinde-nama-brahmani.md)
-- [Шрī Праса̄да-сева̄я Ґīті](songs/shorira-avidya-jal-jodendriya-tahe-kal.md)
+- [Шрī Праса̄да-сева̄я Ґīті](songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md)
 
 ### Вечірнє А̄раті
 
@@ -204,3 +204,4 @@
 - [Шрī Ґуру-Прашястіх](songs/bhagyadhishia-tvadiyo-vimala-sukhamayah.md)
 - [Пранаті-Паньчакам](songs/nava-nalina-ganjitam-kusuma-dala.md)
 - [Ма̄я Дуратьяя](songs/maha-bhaya-shiankula-e-bhava-tarangini.md)
+- [Сварӯподбодгана](songs/ami-guru-dasa-nahi-anya.md)
