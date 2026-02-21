@@ -1,8 +1,9 @@
 ---
 page: 22
-translation: 'no'
+translation: auto
 first_line: джая са-парікара
 no-author: 1
+version: draft-v7
 ---
 
 # Джая Дгвані
