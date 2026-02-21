@@ -3,6 +3,7 @@ page: 225
 translation: auto
 first_line: пралая-пайодгі-джале дгритава̄н асі ведам
 version: draft-v8
+translator: nazar
 ---
 
 # Шрī Дашявата̄р-стотрам
