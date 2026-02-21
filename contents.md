@@ -204,3 +204,4 @@
 - [Шрī Ґуру-Прашястіх](songs/bhagyadhishia-tvadiyo-vimala-sukhamayah.md)
 - [Пранаті-Паньчакам](songs/nava-nalina-ganjitam-kusuma-dala.md)
 - [Ма̄я Дуратьяя](songs/maha-bhaya-shiankula-e-bhava-tarangini.md)
+- [Сварӯподбодгана](songs/ami-guru-dasa-nahi-anya.md)
