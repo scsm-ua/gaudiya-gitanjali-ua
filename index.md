@@ -1,5 +1,6 @@
 - [а̄ча̄рʼя-варʼям ґаура-дга̄ма-ніштхам](songs/acharya-varyam-gaura-dhama-nishtham.md)
 - [акродга парама̄нанда](songs/akrodha-paramananda.md)
+- [а̄мі ґуру-да̄са — нахі анья](songs/ami-guru-dasa-nahi-anya.md)
 - [анья-абгіла̄ша чха̄ді ґʼяна карма паріхарі](songs/anya-abhilasha-chadi-jniana-karma-parihari.md)
 - [ана̄ді карама-пхоле](songs/anadi-karama-phole.md)
 - [апара̄дга-пхоле мама](songs/aparadha-phole-mama.md)
