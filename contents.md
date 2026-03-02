@@ -7,7 +7,7 @@
 - [Прана̄м Мантра - Шрīла Бгакті Нірмал А̄ча̄рʼя Маха̄ра̄дж](songs/pujya-sri-guru-varga-vandita.md)
 - [Прана̄м Мантра - Шрīла Бгакті Сундар Ґовінда Дев-Ґосва̄мī Маха̄ра̄дж](songs/gurvabhishta-supurakam-guru-ganair.md)
 - [Прана̄м Мантра - Шрīла Бгакті Ракшак Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж](songs/devam-divya-tanum-suchanda-vadanam-balarka-chelanchitam.md)
-- [Прана̄м Мантра - Бгаґава̄н Шрīла Бгакті Сіддга̄нта Сарасватī Тха̄кур](songs/shri-siddhanta-sarasvatiti-vidito.md)
+- [Прана̄м Мантра - Бгаґава̄н Шрīла Бгактісіддга̄нта Сарасватī Тха̄кур](songs/shri-siddhanta-sarasvatiti-vidito.md)
 - [Прана̄м Мантра - Шрīла Ґаура Кішора Да̄с Ба̄ба̄джī Маха̄ра̄дж](songs/namo-gaurakishoraya-bhaktavadhuta-murtaye.md)
 - [Прана̄м Мантра - Шрīла Бгакті Вінод Тха̄кур](songs/vande-bhaktivinodam-shri-gaura-shiakti-svarupakam.md)
 - [Прана̄м Мантра - Шрīла Джаґанна̄тх Да̄с Ба̄ба̄джī Маха̄ра̄дж](songs/gaura-vrajashritashieshair-vaishnavair-vandya-vigraham.md)
