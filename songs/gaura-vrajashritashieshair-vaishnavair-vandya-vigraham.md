@@ -3,6 +3,7 @@ page: 18
 translation: auto
 first_line: ґаура-враджа̄шріта̄шєшайр вайшнавайр вандья-віґрахам
 version: draft-v8
+translator: nazar
 ---
 
 # Шрīла Джаґанна̄тх Да̄с Ба̄ба̄джī Маха̄ра̄дж
