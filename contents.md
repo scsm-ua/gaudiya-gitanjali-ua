@@ -18,7 +18,7 @@
 - [Вринда̄яй туласī-девʼяй](songs/vrindayai-tulasi-devyai.md)
 - [Молитви Вайшнавам](songs/sakala-vaishnava-pade-mora-namaskara.md)
 - [Прана̄м Мантра - Шрīла Сва̄мī Маха̄ра̄дж](songs/namah-om-vishnupadaya-krishna.md)
-- [Тхе Ґлорй о тхе Шрī Чайтанья Са̄расват Матх](songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md)
+- [Слава Шрī Чайтанья Са̄расват Матху](songs/shrimach-chaitanya-sarasvata-mathavara-udgita-kirtir.md)
 - [Джая Дгвані](songs/jaya-sa-parikara.md)
 - [Паньча-таттва мантра](songs/shri-krishna-chaitanya-prabhu-nityananda.md)
 - [Харе Кришна маха̄мантра](songs/hare-krishna-hare-krishna-krishna-krishna-hare-hare.md)
