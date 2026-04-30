@@ -40,7 +40,7 @@
       {
         "id": "shri-siddhanta-sarasvatiti-vidito",
         "filepath": "songs/shri-siddhanta-sarasvatiti-vidito.md",
-        "title": "Прана̄м Мантра - Бгаґава̄н Шрīла Бгакті Сіддга̄нта Сарасватī Тха̄кур"
+        "title": "Прана̄м Мантра - Бгаґава̄н Шрīла Бгактісіддга̄нта Сарасватī Тха̄кур"
       },
       {
         "id": "namo-gaurakishoraya-bhaktavadhuta-murtaye",
@@ -60,7 +60,7 @@
       {
         "id": "vancha-kalpatarubhyas-cha",
         "filepath": "songs/vancha-kalpatarubhyas-cha.md",
-        "title": "ва̄ньчха̄-калпатарубгʼяс’ ча"
+        "title": "Ва̄ньчха̄-калпатарубгʼяс’ ча"
       },
       {
         "id": "jayatam-suratau-pangor",
@@ -80,7 +80,7 @@
       {
         "id": "vrindayai-tulasi-devyai",
         "filepath": "songs/vrindayai-tulasi-devyai.md",
-        "title": "вринда̄яй туласī-девʼяй"
+        "title": "Вринда̄яй туласī-девʼяй"
       },
       {
         "id": "sakala-vaishnava-pade-mora-namaskara",
@@ -228,8 +228,8 @@
         "title": "Маха̄праса̄да"
       },
       {
-        "id": "shorira-avidya-jal-jodendriya-tahe-kal",
-        "filepath": "songs/shorira-avidya-jal-jodendriya-tahe-kal.md",
+        "id": "bhai-re-shorira-avidya-jal-jodendriya-tahe-kal",
+        "filepath": "songs/bhai-re-shorira-avidya-jal-jodendriya-tahe-kal.md",
         "title": "Шрī Праса̄да-сева̄я Ґīті"
       }
     ]
@@ -891,6 +891,11 @@
         "id": "maha-bhaya-shiankula-e-bhava-tarangini",
         "filepath": "songs/maha-bhaya-shiankula-e-bhava-tarangini.md",
         "title": "Ма̄я Дуратьяя"
+      },
+      {
+        "id": "ami-guru-dasa-nahi-anya",
+        "filepath": "songs/ami-guru-dasa-nahi-anya.md",
+        "title": "Сварӯподбодгана"
       }
     ]
   }
