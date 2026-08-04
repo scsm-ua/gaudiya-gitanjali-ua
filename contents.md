@@ -154,7 +154,7 @@
 - [Ра̄дга̄-кундатата-куньджа-кутīра](songs/radhakundatata-kunjakutira.md)
 - [Шрī Ра̄дгіка̄-става](songs/radhe-jaya-jaya-madhava-dayite.md)
 
-### Пісні, присвячені Шрī Кришні
+### Пісні, присвячені Шрī Крішні
 
 - [Хе дева бгавантам ванде](songs/he-deva-bhavantam-vande.md)
 - [Джая Ра̄дга̄-Ма̄дгава](songs/radha-madhava-kunja-bihari.md)
