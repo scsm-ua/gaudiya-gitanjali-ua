@@ -2,7 +2,7 @@
 page: 216
 translation: auto
 first_line: кришна хоіте чатур-мукха
-author: Шрīла Сарасваті Тха̄кур
+author: Шрīла Бгактісіддга̄нта Сарасватī Тха̄кур
 version: draft-v8
 translator: nazar
 ---
