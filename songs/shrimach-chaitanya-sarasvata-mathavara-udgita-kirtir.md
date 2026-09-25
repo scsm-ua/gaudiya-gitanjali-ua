@@ -7,7 +7,6 @@ author: Шрīла Бгакті Ракшак Шрīдгар Дев-Ґосва̄�
 # Слава Шрī Чайтанья Са̄расват Матху
 
 ### Шрīла Б.Р. Шрīдгар Дев-Ґосва̄мī Маха̄ра̄дж while
-
 ### residing in a hut on the banks of the Ganges in 1941.
 
 ### Rendered into English by Śrīpād B.A. Sāgar Mahārāj from the Bengali translation by Śrīla B.S. Govinda Dev-Goswāmī Mahārāj.
