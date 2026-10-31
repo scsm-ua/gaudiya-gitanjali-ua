@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 64
 first_line: (кіба) джая джая ґаура̄ча̄ндер а̄ротіко шобга̄
 translator: Alokananda Devi Dasi

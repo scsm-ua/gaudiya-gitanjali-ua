@@ -2,6 +2,10 @@
 page: 88
 translation: 'no'
 first_line: дгваста-са̄рвабгаума-ва̄да-навʼя-тарка-шянкарам
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Шрī Шрī

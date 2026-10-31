@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 250
 translation: 'no'
 first_line: ‘ра̄дга̄-кришна’ бол бол боло ре соба̄і

@@ -2,6 +2,10 @@
 page: 92
 translation: 'no'
 first_line: према-муґдга-рудра-ра̄джа-шяурʼя-вīрʼя-вікрамам
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Шрī Шрī

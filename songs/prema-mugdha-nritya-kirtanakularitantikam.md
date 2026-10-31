@@ -2,6 +2,10 @@
 page: 96
 translation: 'no'
 first_line: према-муґдга-нритья-кīртана̄кула̄ріта̄нтікам
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Шрī Шрī
