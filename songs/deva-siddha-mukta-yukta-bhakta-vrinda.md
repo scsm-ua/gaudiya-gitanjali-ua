@@ -2,6 +2,10 @@
 page: 81
 translation: 'no'
 first_line: дева-сіддга-мукта-юкта-бгакта-вринда
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Шрī Шрī

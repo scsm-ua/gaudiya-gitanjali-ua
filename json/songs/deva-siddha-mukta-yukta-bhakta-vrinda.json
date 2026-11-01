@@ -2,7 +2,14 @@
   "meta": {
     "page": 81,
     "translation": "no",
-    "first_line": "дева-сіддга-мукта-юкта-бгакта-вринда"
+    "first_line": "дева-сіддга-мукта-юкта-бгакта-вринда",
+    "styles": {
+      "verses": {
+        "inline": {
+          "bold": false
+        }
+      }
+    }
   },
   "title": [
     "Шрī Шрī",
