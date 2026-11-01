@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 51
 translation: auto
 first_line: бгаджа ре бгаджа ре а̄ма̄р мана аті манда

@@ -3,6 +3,10 @@ page: 96
 translation: auto
 first_line: према-муґдга-нритья-кīртана̄кула̄ріта̄нтікам
 version: draft-v8
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Шрī Шрī

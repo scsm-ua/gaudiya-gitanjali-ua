@@ -3,6 +3,10 @@ page: 104
 translation: auto
 first_line: ямуна̄мбу-кришна-ра̄дгіка̄лі-келі-мандалам
 version: draft-v8
+styles:
+  verses:
+    inline:
+      bold: false
 ---
 
 # Шрī Шрī
