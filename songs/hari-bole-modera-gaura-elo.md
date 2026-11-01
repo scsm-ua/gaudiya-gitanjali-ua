@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 251
 translation: auto
 first_line: ‘харі’ боле’ модера ґаура ело

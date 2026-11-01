@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 110
 first_line: надīя-ґодруме нітьянанда маха̄джана
 translator: Surya Das

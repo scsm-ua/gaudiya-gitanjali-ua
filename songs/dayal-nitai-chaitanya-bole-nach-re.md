@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 116
 translation: auto
 first_line: ‘даял ніта̄і чайтанья’ бо’ле на̄ч ре

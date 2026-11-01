@@ -1,5 +1,4 @@
 ---
-verse parentheses: non bold
 page: 74
 first_line: шрī ґуру чарана-падма, кевала-бгакаті
 translator: nazar
