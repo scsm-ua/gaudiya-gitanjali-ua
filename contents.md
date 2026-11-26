@@ -1,5 +1,6 @@
 ### Вступ
 
+- [Про проєкт](pages/about.md)
 - [Вандана̄](songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md)
 - [Прана̄м Мантра - Шрīла Бгакті Ранджан Мадгусӯдана Маха̄ра̄дж](songs/acharya-varyam-gaura-dhama-nishtham.md)
 - [Прана̄м Мантра - Шрīла Бгакті Бімал Авадгӯт Маха̄ра̄дж](songs/vande-vaikuntha-vritti-stham.md)

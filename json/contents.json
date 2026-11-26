@@ -3,6 +3,11 @@
     "name": "Вступ",
     "items": [
       {
+        "id": "about",
+        "filepath": "pages/about.md",
+        "title": "Про проєкт"
+      },
+      {
         "id": "vande-ham-shri-guroh-shri-yuta-pada-kamalam",
         "filepath": "songs/vande-ham-shri-guroh-shri-yuta-pada-kamalam.md",
         "title": "Вандана̄"
